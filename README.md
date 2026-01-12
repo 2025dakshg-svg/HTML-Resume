@@ -1,2 +1,3 @@
-# HTML-Resume![Uploading Screenshot 2026-01-12 at 10.11.18 PM.png…]()
-<img width="1383" height="535" alt="Screenshot 2026-01-12 at 10 14 23 PM" src="https://github.com/user-attachments/assets/a02f4749-9aae-4cf7-a658-d74b56e9895b" />
+# HTML-Resume!
+
+<img width="1470" height="836" alt="Screenshot 2026-01-12 at 10 11 18 PM" src="https://github.com/user-attachments/assets/6228766c-b5d7-4bcc-a5e2-dc110884cc70" />
